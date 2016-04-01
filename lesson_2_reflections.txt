@@ -17,3 +17,7 @@ When I want to test something. THey would help by keeping the consolidated versi
 How do the diagrams help you visualize the branch structure?
 
 They make it clear how the branches split from the master.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The files merge adding what's to be added and removing what's to be removed. Because it makes perfect sense.
