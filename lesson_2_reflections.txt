@@ -13,3 +13,7 @@ I can use git diff with and without --staged to study the changes from previous 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 When I want to test something. THey would help by keeping the consolidated version untouched.
+
+How do the diagrams help you visualize the branch structure?
+
+They make it clear how the branches split from the master.
