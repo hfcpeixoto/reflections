@@ -21,3 +21,7 @@ They make it clear how the branches split from the master.
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The files merge adding what's to be added and removing what's to be removed. Because it makes perfect sense.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+As the automatic feature seams to be collision-proof, it is quite useful. The manual must exist for code safety.
