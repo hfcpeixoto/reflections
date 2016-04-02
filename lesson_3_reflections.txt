@@ -19,3 +19,7 @@ So when git pull is invoked, the local repository knows from where to start the 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 With dropbox. Dropbox is easier, but it doesn't control versions as good as Git.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When it is a test, or when I'm collaborating.
